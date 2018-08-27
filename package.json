@@ -1,0 +1,14 @@
+{
+  "name": "tensorflowpractice",
+  "version": "1.0.0",
+  "description": "A demonstration of TensorFlow.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mithridates",
+  "license": "MIT",
+  "dependencies": {
+    "@tensorflow/tfjs": "^0.12.5"
+  }
+}
